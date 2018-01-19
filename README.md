@@ -1,4 +1,4 @@
-Arduino Loundry Project
+## Arduino Loundry Project
 
 Attiny85 microcontoller connected with relay and humidity sensor. There is also one led (inidcator).
 
